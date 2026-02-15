@@ -22,3 +22,6 @@
 ## Update (2026-03-01T09:47:03)
 - feat: add support for pagination in API
 
+## Update (2026-02-15T09:47:03)
+- style: format code according to linter rules
+
