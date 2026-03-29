@@ -13,3 +13,6 @@
 ## Update (2026-04-12T09:47:02)
 - chore: update dependencies to latest stable versions
 
+## Update (2026-03-29T09:47:02)
+- perf: reduce memory footprint in background workers
+
