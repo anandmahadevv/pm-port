@@ -7,3 +7,6 @@
 ## Update (2026-05-10T09:47:01)
 - feat: add support for pagination in API
 
+## Update (2026-04-26T09:47:02)
+- perf: reduce memory footprint in background workers
+
